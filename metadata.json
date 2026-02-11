@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Old Oil - Used Cooking Oil Marketplace",
+  "description": "A modern, eco-friendly platform for selling used cooking oil. Features real-time price calculation, collection point mapping, and pickup scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
